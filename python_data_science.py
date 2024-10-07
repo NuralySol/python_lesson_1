@@ -1,4 +1,5 @@
-# Python data science introduction (All of the basics all over again)
+
+#! Python data science introduction (All of the basics all over again)
 # Declare two variables: on in single quotes, the other in double
 import os
 from PIL import Image
